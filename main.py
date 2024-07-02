@@ -3,6 +3,6 @@ import streamlit as st
 
 st.write("Meu site")
 
-st.write("Ola mundo")
+st.text_input("Login")
 
-st.write("Ola mundo")
+st.text_input("Senha")
